@@ -1,0 +1,3 @@
+https://github.com/joe-shenouda/awesome-cyber-skills
+https://www.owasp.org/index.php/OWASP_Juice_Shop_Project
+https://github.com/carpedm20/awesome-hacking
