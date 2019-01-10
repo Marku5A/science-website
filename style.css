@@ -1,15 +1,18 @@
 body {
-  background-color: silver;
+  background-color: #009900;
 }
 h1 {
-  color: black;
+  color: #ffffff;
   font-family: Arial, sans-serif;
 }
 h3 {
-  color: black;
+  color: #ffffff;
   font-family: Arial, sans-serif;
 }
 p {
-  color: black;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+a {
   font-family: Arial, sans-serif;
 }
